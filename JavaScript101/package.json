@@ -1,0 +1,23 @@
+{
+  "name": "JS101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernardetteh/Launch-School.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bernardetteh/Launch-School/issues"
+  },
+  "homepage": "https://github.com/bernardetteh/Launch-School#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
